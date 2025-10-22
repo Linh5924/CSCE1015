@@ -1,6 +1,6 @@
 # CSCE1015
 Assignment repository for UNT CSCE1015
+## EUID 
 lln0052
-Linh5294
-ls -a
+## Favorite Linux command
 ls -la
